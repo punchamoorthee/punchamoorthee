@@ -1,16 +1,17 @@
-## Hi there 👋
+## Nanu Panchamurthy
 
-<!--
-**punchamoorthee/punchamoorthee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build distributed backend systems where correctness is non-negotiable —
+payment pipelines that cannot double-charge, recommendation systems that
+cannot serve stale results.
 
-Here are some ideas to get you started:
+**Currently:**
+- Finishing my MS thesis on transactional correctness and concurrency
+  control — [LedgerOps](https://github.com/punchamoorthee/ledgerops)
+- Building [Plotform](https://plotform.app) — a recommendation system for
+  film and series that learns taste, not clicks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Writing:** [Nanu's Substack](https://punchamoorthee.substack.com/) — My substack where I write about distributed systems, AI, and my life.
+
+**Stack:** Go · PostgreSQL · pgvector · Prometheus · Grafana · Docker · AWS
+
+F-1 STEM OPT through May 2029.
