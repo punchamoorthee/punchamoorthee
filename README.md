@@ -1,4 +1,4 @@
-## Nanu Panchamurthy
+## Hello there!
 
 I build distributed backend systems where correctness is non-negotiable —
 payment pipelines that cannot double-charge, recommendation systems that
