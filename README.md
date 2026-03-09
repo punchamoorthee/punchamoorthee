@@ -1,17 +1,21 @@
-## Hello there!
+## Hi, I'm Nanu
 
-I build distributed backend systems where correctness is non-negotiable —
-payment pipelines that cannot double-charge, recommendation systems that
-cannot serve stale results.
+Backend engineer focused on payments infrastructure and transactional 
+correctness. I've worked across four distinct payments contexts spanning 
+enterprise pipelines, gateway integration, distributed ledger systems, 
+and live operations.
 
 **Currently:**
-- Finishing my MS thesis on transactional correctness and concurrency
-  control — [LedgerOps](https://github.com/punchamoorthee/ledgerops)
-- Building [Plotform](https://plotform.app) — a recommendation system for
-  film and series that learns taste, not clicks
+- Finishing my MS thesis: LedgerOps, a Go/PostgreSQL distributed ledger 
+  with pessimistic locking, exactly-once semantics, and database-enforced 
+  double-entry invariants. Zero correctness violations across 16,000+ 
+  requests under concurrent load.
+  [github.com/punchamoorthee/ledgerops](https://github.com/punchamoorthee/ledgerops)
 
-**Writing:** [Nanu's Substack](https://punchamoorthee.substack.com/) — My substack where I write about distributed systems, AI, and my life.
+**Writing:** [Nanu's Substack](https://punchamoorthee.substack.com/) 
+Technical writing on distributed systems, concurrency, and payments 
+infrastructure.
 
-**Stack:** Go · PostgreSQL · pgvector · Prometheus · Grafana · Docker · AWS
+**Stack:** Go · PostgreSQL · Docker · Prometheus · Grafana · AWS · Python
 
 F-1 STEM OPT through May 2029.
